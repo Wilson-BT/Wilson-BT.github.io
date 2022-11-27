@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Jekyll+Github个人博客构建之路
-date: 2017-03-03
+date: 2022-11-27
 tag: 技术
 ---
 
 
 <h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
-<a target="_blank" href="https://robotkang.cc/1733.html">原文地址：https://robotkang.cc/1733.html</a>
+<a target="_blank" href="https://wilson-bt.github.io/1733.html">原文地址：https://wilson-bt.github.io/1733.html</a>
 </h6>
 
 *本博客的搭建真是历经了千辛万苦、一步一坑啊。*
@@ -213,5 +213,3 @@ git push
 
 
 **本文转载自robotkang，后稍加改之。特此声明！**
-
-最后编辑时间为: Dec.18, 2019 at 06:02 pm
